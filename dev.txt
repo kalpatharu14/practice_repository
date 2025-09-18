@@ -1,3 +1,4 @@
 hello 
 this is my first git file
-ill learn soon 
+ill learn soon
+i have learnt some basics  
